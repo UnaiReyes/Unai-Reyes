@@ -28,6 +28,4 @@ Mi nombre es Raúl Adán, tengo 25 años y soy un apasionado de la programación
    **Tecnologías usadas:** Java, SQL, JavaFX, Maven.
 
 ### 📫 ¡Contáctame!
-- [LinkedIn](https://www.linkedin.com/) (Agrega tu enlace aquí)
-- [Correo electrónico](mailto:tucorreo@example.com) (Agrega tu email)
-- [Twitter](https://twitter.com/) (Opcional)
+- [Correo electrónico](unaireyesconde@gmail.com)
