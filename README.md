@@ -1,13 +1,12 @@
 # ¡Hola, soy Unai Reyes 👋
 
-### Programador entusiasta de la creación de software accesible para todos 💻✨
+### Programador entusiasta de la creación de software 💻✨
 
-Mi nombre es Raúl Adán, tengo 25 años y soy un apasionado de la programación. Mi misión es **crear software que esté al alcance de todos** y facilite la vida de todo tipo de profesionales. Me encanta trabajar con diferentes lenguajes y herramientas, siempre buscando soluciones que optimicen el día a día de las personas.
+Mi nombre es Unai Reyes, tengo 19 años y soy un apasionado de la programación. Mi misión es **crear software que esté al alcance de todos** y facilite la vida de todo tipo de profesionales. Me encanta trabajar con diferentes lenguajes y herramientas, siempre buscando soluciones que optimicen el día a día de las personas.
 
 ### 🚀 Sobre mí:
-- 🌱 Actualmente estoy profundizando mis conocimientos en **Java** y **PHP**.
+- 🌱 Actualmente estoy profundizando mis conocimientos en **Java** y **SQL**.
 - 🎯 Mi objetivo profesional es especializarme en **desarrollo de software** que resuelva problemas reales de manera eficiente.
-- 💡 Estoy convencido de que la programación tiene el poder de transformar vidas y negocios.
 
 ### 🛠️ Habilidades:
 - **Lenguajes de programación:**  
